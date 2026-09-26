@@ -1,11 +1,10 @@
-<h1 align="center">
+<p align="center">
   <img
-    src="https://api.iconify.design/mdi/hand-wave.svg?color=%23ff3b30&height=32"
-    align="middle"
-    alt=""
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:ff3b30&height=180&section=header&text=Shreyit%20Sinha&fontSize=52&fontColor=E6EDF3&animation=fadeIn&fontAlignY=42&desc=AI%20%2F%20Data%20Engineer&descAlignY=64&descSize=17&descColor=ff3b30"
+    alt="Shreyit Sinha"
+    width="100%"
   />
-  Hi there, I'm Shreyit Sinha
-</h1>
+</p>
 
 <p align="center">
   <img
@@ -28,11 +27,24 @@
 ---
 
 <p align="center">
-  <img
-    src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"
-    width="380"
-    alt="AI animation"
-  />
+
+```text
++--------------------------------------------------------+
+| guest@shreyit                                          |
+|                                                        |
+| $ whoami                                               |
+| > Shreyit Sinha -- AI / Data Engineer                  |
+|                                                        |
+| $ cat currently.txt                                    |
+| > building RAG pipelines + LLM evaluation harnesses    |
+| > automating video & animation render pipelines        |
+| > mapping data across geo + field research             |
+|                                                        |
+| $ ./deploy.sh --target=production                      |
+| > [====================================] 100%  shipped |
++--------------------------------------------------------+
+```
+
 </p>
 
 ---
@@ -129,6 +141,11 @@
     src="./profile/top-langs.svg"
     alt="Top Languages"
   />
+  <img
+    height="165"
+    src="https://streak-stats.demolab.com/?user=Shreyit&theme=tokyonight&hide_border=true&background=0D1117&ring=ff3b30&fire=ff3b30&currStreakLabel=ff3b30&sideLabels=E6EDF3&sideNums=E6EDF3&dates=6e7681"
+    alt="GitHub Streak"
+  />
 </p>
 
 ---
@@ -160,17 +177,6 @@
   <img
     src="./profile/trophy.svg"
     alt="GitHub Trophies"
-  />
-</p>
-
----
-
-### <img src="https://api.iconify.design/mdi/clock-outline.svg?color=%23ff3b30&height=22" align="middle" alt="" /> Weekly Coding Activity
-
-<p align="center">
-  <img
-    src="./profile/wakatime.svg"
-    alt="Weekly coding activity"
   />
 </p>
 
@@ -211,4 +217,12 @@
     />,
     RAG pipelines, and a lot of ffmpeg renders.
   </sub>
+</p>
+
+<p align="center">
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:ff3b30,100:0D1117&height=100&section=footer"
+    alt=""
+    width="100%"
+  />
 </p>
