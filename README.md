@@ -33,7 +33,7 @@
 | guest@shreyit                                          |
 |                                                        |
 | $ whoami                                               |
-| > Shreyit Sinha -- AI / Data Engineer                  |
+| > Shreyit Sinha -- AI / MLOps                          |
 |                                                        |
 | $ cat currently.txt                                    |
 | > building RAG pipelines + LLM evaluation harnesses    |
