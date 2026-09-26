@@ -38,7 +38,10 @@ jobs:
 
           git add profile/trophy.svg
 
-          git diff --cached --quiet || \
-            git commit -m "chore: update github trophies"
+          git diff --cached --quiet && exit 0
+          git commit -m "chore: update github trophies"
 
-          git push
+          for i in 1 2 3 4 5; do
+            git pull --rebase origin main && git push && break
+            sleep $((RANDOM % 10 + 1))
+          done
