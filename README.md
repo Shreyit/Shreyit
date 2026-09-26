@@ -1,6 +1,6 @@
 <p align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:ff3b30&height=180&section=header&text=Shreyit%20Sinha&fontSize=52&fontColor=E6EDF3&animation=fadeIn&fontAlignY=42&desc=AI%20%2F%20Data%20Engineer&descAlignY=64&descSize=17&descColor=ff3b30"
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:ff3b30&height=180&section=header&text=Shreyit%20Sinha&fontSize=52&fontColor=E6EDF3&animation=fadeIn&fontAlignY=42&desc=AI%20%2F%20MLOps&descAlignY=64&descSize=17&descColor=ff3b30"
     alt="Shreyit Sinha"
     width="100%"
   />
@@ -8,7 +8,7 @@
 
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=ff3b30&center=true&vCenter=true&width=650&lines=AI+%2F+Data+Engineer;RAG+Pipelines+%2B+LLM+Evaluation;Automated+Video+%26+Animation+Systems;Data+%2B+Geo+%2B+Field+Research"
+    src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=ff3b30&center=true&vCenter=true&width=650&lines=AI+%2F+MLOps;RAG+Pipelines+%2B+LLM+Evaluation;Automated+Video+%26+Animation+Systems;Data+%2B+Geo+%2B+Field+Research"
     alt="Typing SVG"
   />
 </p>
@@ -26,26 +26,22 @@
 
 ---
 
-<p align="center">
-
-```text
-+--------------------------------------------------------+
-| guest@shreyit                                          |
-|                                                        |
-| $ whoami                                               |
-| > Shreyit Sinha -- AI / MLOps                          |
-|                                                        |
-| $ cat currently.txt                                    |
-| > building RAG pipelines + LLM evaluation harnesses    |
-| > automating video & animation render pipelines        |
-| > mapping data across geo + field research             |
-|                                                        |
-| $ ./deploy.sh --target=production                      |
-| > [====================================] 100%  shipped |
-+--------------------------------------------------------+
-```
-
-</p>
+<table align="center"><tr><td>
+<pre>
+╭─ guest@shreyit ──────────────────────────────────────────────╮
+│ $ whoami                                                     │
+│ > Shreyit Sinha  --  AI / MLOps                              │
+├──────────────────────────────────────────────────────────────┤
+│ $ cat currently.txt                                          │
+│ > building RAG pipelines + LLM evaluation harnesses          │
+│ > automating video &amp; animation render pipelines              │
+│ > mapping data across geo + field research                   │
+├──────────────────────────────────────────────────────────────┤
+│ $ ./deploy.sh --target=production                            │
+│ > [========================================] 100%  shipped   │
+╰──────────────────────────────────────────────────────────────╯
+</pre>
+</td></tr></table>
 
 ---
 
