@@ -205,13 +205,13 @@
 
 <p align="center">
   <sub>
-    Built with
+    Brewed with
     <img
       src="https://api.iconify.design/mdi/coffee.svg?color=%23ff3b30&height=14"
       align="middle"
       alt=""
     />,
-    RAG pipelines, and a lot of ffmpeg renders.
+    RAG pipelines.
   </sub>
 </p>
 
