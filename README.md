@@ -1,6 +1,6 @@
 <p align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:ff3b30&height=180&section=header&text=Shreyit%20Sinha&fontSize=52&fontColor=E6EDF3&animation=fadeIn&fontAlignY=42&desc=AI%20%2F%20MLOps&descAlignY=64&descSize=17&descColor=ff3b30"
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:ff3b30&height=220&section=header&text=Shreyit%20Sinha&fontSize=52&fontColor=E6EDF3&animation=fadeIn&fontAlignY=42&desc=AI%20%2F%20MLOps&descAlignY=64&descSize=17&descColor=ff3b30"
     alt="Shreyit Sinha"
     width="100%"
   />
