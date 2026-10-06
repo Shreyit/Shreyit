@@ -1,6 +1,6 @@
 <p align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:ff3b30&height=220&section=header&text=Shreyit%20Sinha&fontSize=52&fontColor=E6EDF3&animation=fadeIn&fontAlignY=42&desc=AI%20%2F%20MLOps&descAlignY=64&descSize=17&descColor=ff3b30"
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:174713,100:71A469&height=220&section=header&text=Shreyit%20Sinha&fontSize=52&fontColor=E6EDF3&animation=fadeIn&fontAlignY=42&desc=AI%20%2F%20MLOps&descAlignY=64&descSize=17&descColor=71A469"
     alt="Shreyit Sinha"
     width="100%"
   />
@@ -8,18 +8,18 @@
 
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=ff3b30&center=true&vCenter=true&width=650&lines=AI+%2F+MLOps;RAG+Pipelines+%2B+LLM+Evaluation;Automated+Video+%26+Animation+Systems;Data+%2B+Geo+%2B+Field+Research"
+    src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=71A469&center=true&vCenter=true&width=650&lines=AI+%2F+MLOps;RAG+Pipelines+%2B+LLM+Evaluation;Automated+Video+%26+Animation+Systems;Data+%2B+Geo+%2B+Field+Research"
     alt="Typing SVG"
   />
 </p>
 
 <p align="center">
   <img
-    src="https://komarev.com/ghpvc/?username=Shreyit&label=Profile%20Views&color=ff3b30&style=for-the-badge"
+    src="https://komarev.com/ghpvc/?username=Shreyit&label=Profile%20Views&color=71A469&style=for-the-badge"
     alt="Profile views"
   />
   <img
-    src="https://img.shields.io/badge/Status-Shipping%20Fast-ff3b30?style=for-the-badge"
+    src="https://img.shields.io/badge/Status-Shipping%20Fast-71A469?style=for-the-badge"
     alt="Status"
   />
 </p>
@@ -45,7 +45,7 @@
 
 ---
 
-### <img src="https://api.iconify.design/mdi/toolbox.svg?color=%23ff3b30&height=22" align="middle" alt="" /> Tech Arsenal
+### <img src="https://api.iconify.design/mdi/toolbox.svg?color=%2371A469&height=22" align="middle" alt="" /> Tech Arsenal
 
 <p align="center">
   <b>Languages</b><br/>
@@ -124,7 +124,7 @@
 
 ---
 
-### <img src="https://api.iconify.design/mdi/chart-bar.svg?color=%23ff3b30&height=22" align="middle" alt="" /> GitHub Stats
+### <img src="https://api.iconify.design/mdi/chart-bar.svg?color=%2371A469&height=22" align="middle" alt="" /> GitHub Stats
 
 <p align="center">
   <img
@@ -139,14 +139,14 @@
   />
   <img
     height="165"
-    src="https://streak-stats.demolab.com/?user=Shreyit&theme=tokyonight&hide_border=true&background=0D1117&ring=ff3b30&fire=ff3b30&currStreakLabel=ff3b30&sideLabels=E6EDF3&sideNums=E6EDF3&dates=6e7681"
+    src="https://streak-stats.demolab.com/?user=Shreyit&theme=tokyonight&hide_border=true&background=0D1117&ring=71A469&fire=71A469&currStreakLabel=71A469&sideLabels=E6EDF3&sideNums=E6EDF3&dates=6e7681"
     alt="GitHub Streak"
   />
 </p>
 
 ---
 
-### <img src="https://api.iconify.design/mdi/chart-timeline-variant.svg?color=%23ff3b30&height=22" align="middle" alt="" /> Contribution Graph
+### <img src="https://api.iconify.design/mdi/chart-timeline-variant.svg?color=%2371A469&height=22" align="middle" alt="" /> Contribution Graph
 
 <p align="center">
   <picture>
@@ -167,7 +167,7 @@
 
 ---
 
-### <img src="https://api.iconify.design/mdi/trophy.svg?color=%23ff3b30&height=22" align="middle" alt="" /> GitHub Trophies
+### <img src="https://api.iconify.design/mdi/trophy.svg?color=%2371A469&height=22" align="middle" alt="" /> GitHub Trophies
 
 <p align="center">
   <img
@@ -178,7 +178,7 @@
 
 ---
 
-### <img src="https://api.iconify.design/mdi/web.svg?color=%23ff3b30&height=22" align="middle" alt="" /> Connect
+### <img src="https://api.iconify.design/mdi/web.svg?color=%2371A469&height=22" align="middle" alt="" /> Connect
 
 <p align="center">
   <a href="mailto:sinhashreyit@gmail.com">
@@ -207,7 +207,7 @@
   <sub>
     Brewed with
     <img
-      src="https://api.iconify.design/mdi/coffee.svg?color=%23ff3b30&height=14"
+      src="https://api.iconify.design/mdi/coffee.svg?color=%2371A469&height=14"
       align="middle"
       alt=""
     />,
